@@ -1,0 +1,68 @@
+/*
+
+  Layout.css
+
+*/
+
+/* 1. Body
+********************************************************/
+body {
+  font: 13px/18px Arial,verdana,sans-serif;
+  background: #fff;
+  text-align: center;
+  color: #000;
+}
+
+/* 2. Default Styling
+********************************************************/
+ul {
+  padding-left: 2em;
+}
+p {
+  padding-bottom: 1em;
+}
+hr {
+  border: 1px solid;
+  height: 1px;
+  width: 80%;
+}
+table {
+  border-collapse: collapse;
+}
+table th {
+  font-weight: bold;
+}
+table td, table th {
+  text-align: left;
+  padding: 2px;
+}
+
+/* 3. Headings
+********************************************************/
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.8em;
+}
+h3 { 
+  font-size: 1.5em;
+}
+h4 { }
+h5 { }
+h6 { }
+
+
+/* 4. Links
+********************************************************/
+a:link,
+a:visited { color: #fff; }
+a:focus,
+a:active { color: #ED1B23; }
+
+/* 5. Images & Video
+********************************************************/
+
+/* 6. Layout
+********************************************************/
+
